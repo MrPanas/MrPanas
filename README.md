@@ -7,7 +7,7 @@ CS Student, AI & Tech Enthusiast, Space & F1 Lover
 
 *   🌍  I'm based in Rome
 *   🖥️  See my portfolio at [mrpanas.github.io](http://mrpanas.github.io)
-*   ✉️  You can contact me at [patrykmulica@gmal.com](mailto:patrykmulica@gmail.com)
+*   ✉️  You can contact me at [patrykmulica@gmail.com](mailto:patrykmulica@gmail.com)
 *   🧠  I'm learning Go, JS, React.
 *   🌱  I’d like to learn Rust
 
